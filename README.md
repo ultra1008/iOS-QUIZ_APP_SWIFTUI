@@ -2,8 +2,6 @@
 
 Welcome to the open source Quiz app repository! This app is built using SwiftUI and Alamofire, and follows the Model-View-ViewModel (MVVM) design pattern. 
 
-<img width="1604"  src="appimages/banner.png?raw=true">
-
 # Features
 
 ## Create random quiz just in 2 seconds
